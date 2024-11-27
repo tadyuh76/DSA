@@ -1,0 +1,14 @@
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\PhoneBook\PhoneBook\bin\Debug\net8.0\PhoneBook.exe
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\PhoneBook\PhoneBook\bin\Debug\net8.0\PhoneBook.deps.json
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\PhoneBook\PhoneBook\bin\Debug\net8.0\PhoneBook.runtimeconfig.json
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\PhoneBook\PhoneBook\bin\Debug\net8.0\PhoneBook.dll
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\PhoneBook\PhoneBook\bin\Debug\net8.0\PhoneBook.pdb
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\PhoneBook\PhoneBook\obj\Debug\net8.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\PhoneBook\PhoneBook\obj\Debug\net8.0\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\PhoneBook\PhoneBook\obj\Debug\net8.0\PhoneBook.AssemblyInfo.cs
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\PhoneBook\PhoneBook\obj\Debug\net8.0\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\PhoneBook\PhoneBook\obj\Debug\net8.0\PhoneBook.dll
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\PhoneBook\PhoneBook\obj\Debug\net8.0\refint\PhoneBook.dll
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\PhoneBook\PhoneBook\obj\Debug\net8.0\PhoneBook.pdb
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\PhoneBook\PhoneBook\obj\Debug\net8.0\PhoneBook.genruntimeconfig.cache
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\PhoneBook\PhoneBook\obj\Debug\net8.0\ref\PhoneBook.dll

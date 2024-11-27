@@ -1,0 +1,14 @@
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\StackQueue\StackQueue\bin\Debug\net8.0\StackQueue.exe
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\StackQueue\StackQueue\bin\Debug\net8.0\StackQueue.deps.json
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\StackQueue\StackQueue\bin\Debug\net8.0\StackQueue.runtimeconfig.json
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\StackQueue\StackQueue\bin\Debug\net8.0\StackQueue.dll
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\StackQueue\StackQueue\bin\Debug\net8.0\StackQueue.pdb
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\StackQueue\StackQueue\obj\Debug\net8.0\StackQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\StackQueue\StackQueue\obj\Debug\net8.0\StackQueue.AssemblyInfoInputs.cache
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\StackQueue\StackQueue\obj\Debug\net8.0\StackQueue.AssemblyInfo.cs
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\StackQueue\StackQueue\obj\Debug\net8.0\StackQueue.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\StackQueue\StackQueue\obj\Debug\net8.0\StackQueue.dll
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\StackQueue\StackQueue\obj\Debug\net8.0\refint\StackQueue.dll
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\StackQueue\StackQueue\obj\Debug\net8.0\StackQueue.pdb
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\StackQueue\StackQueue\obj\Debug\net8.0\StackQueue.genruntimeconfig.cache
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\StackQueue\StackQueue\obj\Debug\net8.0\ref\StackQueue.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\SpellChecker\SpellChecker\bin\Debug\net8.0\SpellChecker.exe
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\SpellChecker\SpellChecker\bin\Debug\net8.0\SpellChecker.deps.json
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\SpellChecker\SpellChecker\bin\Debug\net8.0\SpellChecker.runtimeconfig.json
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\SpellChecker\SpellChecker\bin\Debug\net8.0\SpellChecker.dll
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\SpellChecker\SpellChecker\bin\Debug\net8.0\SpellChecker.pdb
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\SpellChecker\SpellChecker\obj\Debug\net8.0\SpellChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\SpellChecker\SpellChecker\obj\Debug\net8.0\SpellChecker.AssemblyInfoInputs.cache
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\SpellChecker\SpellChecker\obj\Debug\net8.0\SpellChecker.AssemblyInfo.cs
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\SpellChecker\SpellChecker\obj\Debug\net8.0\SpellChecker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\SpellChecker\SpellChecker\obj\Debug\net8.0\SpellChecker.dll
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\SpellChecker\SpellChecker\obj\Debug\net8.0\refint\SpellChecker.dll
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\SpellChecker\SpellChecker\obj\Debug\net8.0\SpellChecker.pdb
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\SpellChecker\SpellChecker\obj\Debug\net8.0\SpellChecker.genruntimeconfig.cache
+C:\Users\Admin\Data\Coding Projects\C & C++ & C#\DSA\SpellChecker\SpellChecker\obj\Debug\net8.0\ref\SpellChecker.dll
