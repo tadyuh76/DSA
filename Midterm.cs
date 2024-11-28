@@ -15,19 +15,39 @@ public class Program
 
         public override string ToString()
         {
-            return $"Employee(Full Name: {full_name}, Gender: {gender}, Appoval Time: {approval_time}, Education Level: {education_level})";
+            return $"Employee(Full Name: {full_name}, Gender: {gender}, Approval Time: {approval_time}, Education Level: {education_level})";
         }
     }
 
     public class ERM
     {
-        private List<string> keys;
-        private List<Employee> values;
+        private List<string> keys = new List<string>();
+        private List<Employee> values = new List<Employee>();
 
-        public ERM()
+        public void Swap(string keya, string keyb)
         {
-            keys = new List<string>();
-            values = new List<Employee>();
+            int ind1 = -1, ind2 = -1;
+
+            for (int i = 0; i < keys.Count; i++)
+            {
+                if (keys[i] == keya)
+                {
+                    ind1 = i;
+                }
+                else if (keys[i] == keyb)
+                {
+                    ind2 = i;
+                }
+            }
+
+            var tempKey = keys[ind1];
+            var tempValue = values[ind1];
+
+            keys[ind1] = keys[ind2];
+            values[ind1] = values[ind2];
+
+            keys[ind2] = tempKey;
+            values[ind2] = tempValue;
         }
 
         public void Add(string key, Employee value)
@@ -48,20 +68,17 @@ public class Program
 
         public void Map(int n)
         {
-            if (n >= 0)
+            List<string> newKeys = new List<string>();
+            List<Employee> newValues = new List<Employee>();
+
+            for (int i = 0; i < keys.Count; i++)
             {
-                List<string> newKeys = new List<string>();
-                List<Employee> newValues = new List<Employee>();
-
-                for (int i = 0; i < keys.Count; i++)
-                {
-                    newKeys.Add(keys[i]);
-                    newValues.Add(values[(i + n) % keys.Count]);
-                }
-
-                keys = newKeys;
-                values = newValues;
+                newKeys.Add(keys[i]);
+                newValues.Add(values[(i + n) % keys.Count]);
             }
+
+            keys = newKeys;
+            values = newValues;
         }
 
         public void Sort()
@@ -72,18 +89,10 @@ public class Program
                 {
                     if (string.Compare(keys[j], keys[j + 1]) > 0)
                     {
-                        Swap<string>(keys, j, j + 1);
-                        Swap<Employee>(values, j, j + 1);
+                        Swap(keys[j], keys[j + 1]);
                     }
                 }
             }
-        }
-
-        public void Swap<T>(List<T> list, int indexA, int indexB)
-        {
-            T temp = list[indexA];
-            list[indexA] = list[indexB];
-            list[indexB] = temp;
         }
 
         public void Print()
@@ -97,10 +106,9 @@ public class Program
 
     public static void Main(string[] args)
     {
-        // Create an instance of ERM
         ERM erm = new ERM();
 
-        // Create some employees
+        // Tao 5 nhan vien
         Employee employee1 = new Employee
         {
             full_name = "Huong Dat Huy",
@@ -145,8 +153,8 @@ public class Program
         erm.Add("007", employee1);
         erm.Add("003", employee2);
         erm.Add("002", employee3);
-        erm.Add("005", employee4);
-        erm.Add("010", employee5);
+        erm.Add("010", employee4);
+        erm.Add("005", employee5);
         Console.WriteLine("Da them 5 nhan vien:");
         erm.Print();
 
